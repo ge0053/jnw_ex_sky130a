@@ -26,3 +26,5 @@ jobs:
     uses: analogicus/jnw-actions/.github/workflows/docs.yaml@main
     permissions:
       contents: read
+      pages: write
+      id-token: write

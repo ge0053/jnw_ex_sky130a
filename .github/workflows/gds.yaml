@@ -16,3 +16,4 @@ concurrency:
 jobs:
   gds:
     uses: analogicus/jnw-actions/.github/workflows/gds.yaml@main
+

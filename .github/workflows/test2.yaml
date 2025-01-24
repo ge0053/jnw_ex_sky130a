@@ -1,9 +1,0 @@
-name: Test DOCS Trigger
-
-on:
-  workflow_dispatch:
-
-jobs:
-  test-docs:
-    uses: analogicus/jnw-actions/.github/workflows/docs.yaml@main
-
